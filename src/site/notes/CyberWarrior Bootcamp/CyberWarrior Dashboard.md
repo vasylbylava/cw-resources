@@ -146,7 +146,7 @@
 > > > - [ ]  [MITM using Ettercap](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESPA115+2022_T2/block-v1:CyberWarrior+ESPA115+2022_T2+type@sequential+block@9edaf7728cb84062855bf31466a04035/block-v1:CyberWarrior+ESPA115+2022_T2+type@vertical+block@a4fc7d8d22ef4fc1b2fa7f15fb1ab955) / [[CyberWarrior Bootcamp/Packet Analysis/Lab - MITM using Ettercap\|📝]]
 > > > - [ ]  [Capturing Packets in Passive Mode with OWASP ZAP](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESPA112+2022_T2/block-v1:CyberWarrior+ESPA112+2022_T2+type@sequential+block@940c7115f48a434fa1988df7268e6b79/block-v1:CyberWarrior+ESPA112+2022_T2+type@vertical+block@bb62c97d7b624446bbd05876d700d25d) / [[CyberWarrior Bootcamp/Packet Analysis/Lab - Capturing Packets in Passive Mode with OWASP ZAP\|📝]]
 > > > - [ ]  [Packet Analysis with NetworkMiner](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESPA110+2022_T2/block-v1:CyberWarrior+ESPA110+2022_T2+type@sequential+block@7cb710729ba34013946154afce115eb7/block-v1:CyberWarrior+ESPA110+2022_T2+type@vertical+block@df9a148b2d644684a306d13d83a516de) / [[CyberWarrior Bootcamp/Packet Analysis/Lab - Packet Analysis with NetworkMiner\|📝]]
-> > > - [ ]  [Network and Packet Analysis Final Project: ABC Corp Case Study](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESPA113+2022_T2/home) / [[CyberWarrior Bootcamp/Packet Analysis/Lab - Network and Packet Analysis Final Project: ABC Corp Case Study\|📝]]
+> > > - [ ]  [Network and Packet Analysis Final Project: ABC Corp Case Study](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESPA113+2022_T2/home) / [[CyberWarrior Bootcamp/Packet Analysis/Lab - Network and Packet Analysis Final Project - ABC Corp Case Study\|📝]]
 
 
 > [!quote]+
@@ -248,7 +248,7 @@
 > >> [!notes]+ Courses
 > >> - [ ]  [ESFI101 - Introduction to Firewall & IDPS](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESFI101+2022_T1/home) / [[CyberWarrior Bootcamp/Firewalls and IDPS/Introduction to Firewall & IDPS]\|📝]]
 > >> - [ ]  [ESFI109 - Defend your Network with NGINX WAF](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESFI109+2022_T2/home) / [[CyberWarrior Bootcamp/Firewalls and IDPS/Defend your Network with NGINX WAF\|📝]]
-> >> - [ ]  [ESFI103 - Cisco Packet Tracer: ACL & Zone Based Policy Firewall](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESFI106+2022_T1/home) / [[CyberWarrior Bootcamp/Firewalls and IDPS/Cisco Packet Tracer: ACL & Zone Based Policy Firewall\|📝]]
+> >> - [ ]  [ESFI103 - Cisco Packet Tracer: ACL & Zone Based Policy Firewall](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESFI106+2022_T1/home) / [[CyberWarrior Bootcamp/Firewalls and IDPS/Cisco Packet Tracer - ACL & Zone Based Policy Firewall\|📝]]
 > >> - [ ]  [ESFI104 - Defend your Network with pfSense](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESFI103+2022_T1/home) / [[CyberWarrior Bootcamp/Firewalls and IDPS/Defend your Network with pfSense\|📝]]
 > >> - [ ]  [ESFI108 - Defend your Network with Snort](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESFI108+2022_T2/home) / [[CyberWarrior Bootcamp/Firewalls and IDPS/Defend your Network with Snort\|📝]]
 > >
@@ -308,7 +308,7 @@
 > > [!todo]+ Week Thirteen
 > >
 > >> [!notes]+ Courses
-> >> - [ ]  [ESIR109 - Incident Response: OODA Loop](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESIR109+2022_T1/home) / [[CyberWarrior Bootcamp/Incident Response/Incident Response: OODA Loop\|📝]]
+> >> - [ ]  [ESIR109 - Incident Response: OODA Loop](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESIR109+2022_T1/home) / [[CyberWarrior Bootcamp/Incident Response/Incident Response - OODA Loop\|📝]]
 > >> - [ ]  [ESIR110 - Security Orchestration, Automation and Response (SOAR)](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESIR110+2022_T1/home) / [[CyberWarrior Bootcamp/Incident Response/Security Orchestration, Automation and Response (SOAR)\|📝]]
 > >> - [ ]  [ESIR111 - Managed Detection And Response (MDR)](https://apps.elearning.cyberwarrior.com/learning/course/course-v1:CyberWarrior+ESIR111+2022_T1/home) / [[CyberWarrior Bootcamp/Incident Response/Managed Detection And Response (MDR)\|📝]]
 > >
